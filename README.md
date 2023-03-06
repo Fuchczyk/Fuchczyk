@@ -1,5 +1,16 @@
-### Hi there 👋
+## 🧑🏻‍🦱 About me
+I am Computer Science student at University of Warsaw. I am fascinated about Rust programming language, therefore I try to constantly learn new frameworks.
 
+## ⚡ Current project
+I am developing CliMa web application. This is an opportunity to acquire knowledge about NextJS framework to improve my application creation skills and to gain and understaning of HTML and CSS.
+
+## 🌱 Currently learning
+  - Docker
+  - TypeScript
+
+## 🔮 Future plans
+  - Grasp knowledge about embedded programming.
+  - Get started with Kubernetes.
 <!--
 **Fuchczyk/Fuchczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
