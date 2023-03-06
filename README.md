@@ -2,7 +2,7 @@
 I am Computer Science student at University of Warsaw. I am fascinated about Rust programming language, therefore I try to constantly learn new frameworks.
 
 ## ⚡ Current project
-I am developing CliMa web application. This is an opportunity to acquire knowledge about NextJS framework to improve my application creation skills and to gain and understaning of HTML and CSS.
+I am developing CliMa web application. This is an opportunity to acquire knowledge about NextJS framework to improve my application creation skills and to gain an understaning of HTML and CSS.
 
 ## 🌱 Currently learning
   - Docker
