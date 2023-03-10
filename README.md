@@ -10,7 +10,6 @@ I am developing CliMa web application. This is an opportunity to acquire knowled
 
 ## 🔮 Future plans
   - Grasp knowledge about embedded programming.
-  - Get started with Kubernetes.
 <!--
 **Fuchczyk/Fuchczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
